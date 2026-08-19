@@ -1,15 +1,3 @@
-Title: Assignment 1
-date: 2026-06-02
-tags: individual, policy, grading
-authors: M Deng
-status: unpublished
-summary: Assignment 1
-----
-
-[TOC]
-
-* **Due date:** Check the [schedule]({filename}/pages/home.md#schedule).
-
 ### Assignment: RapidRecall - A Quick Memory Game App
 
 # **Learning Objectives:**
