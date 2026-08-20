@@ -122,6 +122,7 @@ Before starting a round, players can choose the length of the number sequence th
     -   Keep UML documentation in the **doc** directory.
     -   Zip the **YOURCCID-RapidRecall** directory and upload.
     -   **NOTE:** If any of the above submission steps are not followed, then the misplaced file(s) will be considered "incomplete" and your grade reduced accordingly.
+    -   We have included a bash script called `check_filename_a1.sh` that you can use to check the name of your zip file. Put the bash script in the same directory as the zip file, and then run it.
 
 7.  Evaluation Criteria:
 
