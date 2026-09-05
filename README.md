@@ -47,7 +47,7 @@ Before starting a round, players can choose the length of the number sequence th
             design. Include notes on each class\'s main
             responsibilities.
     3.  **License**
-        - LICENSE your assignment with an opensource license. Add a LICENSE.md file to the root directory of the assignment, that contains an opensource license that will be used for the project.
+        - LICENSE your assignment with an opensource license. Add a LICENSE.md file to the root directory of the assignment that contains an opensource license that will be used for the assignment.
           - Apache 2.0 or GPL 3.0 or AGPL 3.0 are recommended
 
 3.  Demonstration Actions:
