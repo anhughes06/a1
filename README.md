@@ -112,6 +112,7 @@ Before starting a round, players can choose the length of the number sequence th
     -   cannot view files without specialized tools
     -   lossy compression used in image file(s) for UML (e.g., JPEG)
     -   inadequate or improper citations
+    -   missing license
     -   using RAR archive format
 
     These are brown M&M rules.
@@ -126,6 +127,7 @@ Before starting a round, players can choose the length of the number sequence th
         **code/app/build/outputs/apk/debug/app-debug.apk**.
     -   Store the demonstration video in the **video** directory.
     -   Keep UML documentation in the **doc** directory.
+    -   Keep LICENSE.md in the **root** directory
     -   Zip the **YOURCCID-RapidRecall** directory and upload.
 > [!NOTE]
 > - If any of the above submission steps are not followed, then the misplaced file(s) will be considered "incomplete" and your grade reduced accordingly.
@@ -137,8 +139,8 @@ Before starting a round, players can choose the length of the number sequence th
     categories:
 
     -   **Excellent (8):** Functionality meets all requirements,
-        intuitive UI, comprehensive UML, and a clear video
-        demonstration.
+        intuitive UI, comprehensive UML, appropriate license, 
+        and a clear video demonstration.
     -   **Good (7):** Minor issues but overall functional and follows
         submission rules.
     -   **Satisfactory (5):** Runs, but noticeable issues; some
