@@ -14,7 +14,6 @@
 # Gradle files
 .gradle
 .gradle/
-build/
 
 # Signing files
 .signing/
@@ -30,7 +29,6 @@ proguard/
 
 # Android Studio
 /*/local.properties
-/*/out
 /*/*/production
 captures/
 .navigation/
