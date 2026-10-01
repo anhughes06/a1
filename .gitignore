@@ -29,10 +29,8 @@ proguard/
 *.log
 
 # Android Studio
-/*/build/
 /*/local.properties
 /*/out
-/*/*/build
 /*/*/production
 captures/
 .navigation/
