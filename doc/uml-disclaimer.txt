@@ -1,0 +1,35 @@
+The UML diagram (rapidrecall-uml.png in this directory) was generated with ChatGPT. I do not have a mouse for my laptop and figured that using an online UML tool would be too tedious and difficult with such limited control of my cursor.
+To ensure that I understand the structure of a UML diagram, I told ChatGPT exactly what to generate, and did not provide any files from my project for it to automatically scan and base the UML diagram on.
+
+The starting prompt:
+
+'
+Assignment Requirement:
+UML class diagram(s) detailing the app's object-oriented design. Include notes on each class's main responsibilities.
+System Description:
+class Sequence
+- numericalSequence: MutableList
+- inputSequence: MutableList
+- correct: Boolean
+- get(idx: Int): Int
+- getTargetString(): String
+- getInputString(): String
+class GameState
+- stage: GameStages
+- digits: Int
+- totalAttempts: Int
+- totalCorrect: Int
+- loggedSequences: MutableList
+- currentSequence: Sequence
+- generateNewSequence(): None
+- logSequence(): None
+AppUI (this is not a class but maybe should be one)
+- StartScreen(state: GameState)
+- SequenceScreen(state: GameState)
+- RecallScreen(state: GameState)
+- ReflectScreen(state: GameState)
+- AttemptLogScreen(state: GameState)
+- LogScreen(state: GameState)
+'
+
+I then provided ChatGPT with a description for each class, accepted ChatGPT's suggestion on using the stereotype «file» for AppUI, indicated the access level of each member variable/method, and also provided the GameStages enumeration class.
